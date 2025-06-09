@@ -285,7 +285,7 @@ export default function YeepstersWebsite() {
             Get In Touch
           </h2>
           <p className="text-xl mb-12 opacity-90 leading-relaxed">
-            Ready to transform your business? Let's work together to make your business soar!
+            Ready to transform your business? Let&apos;s work together to make your business soar!
           </p>
           
           <div className="grid md:grid-cols-3 gap-8 mb-12">
